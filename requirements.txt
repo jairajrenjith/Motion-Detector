@@ -1,5 +1,1 @@
 opencv-python
-numpy
-streamlit
-streamlit-webrtc
-av
